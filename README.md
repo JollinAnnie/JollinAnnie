@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joanne Faith N. Cabarde</h1>
-<h3 align="center">A computer science student</h3>
+<h3 align="center">An Aspiring Software Quality Assurance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollinannie&label=Profile%20views&color=0e75b6&style=flat" alt="jollinannie" /> </p>
 
